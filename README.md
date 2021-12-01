@@ -68,7 +68,7 @@ python convert_BFM.py
   python ./NeRFs/TorsoNeRF/run_nerf.py --config ./dataset/Obama/TorsoNeRFTest_config.txt --aud_file=<Path_to_AudioFile.npy> --test_size=-1
   
 # Pretrained Model
-  100k Head: https://drive.google.com/file/d/1-hUY2MfQRLYEtxse04NePn8B_z5lyl3b/view?usp=sharing
+  100k Head: https://drive.google.com/file/d/1-hUY2MfQRLYEtxse04NePn8B_z5lyl3b/view?usp=sharing\n
   200k Head: https://drive.google.com/file/d/1VPPcJY3SJAPRW3Sc-oOABpBxI5gAvK3O/view?usp=sharing
   60k Torso: https://drive.google.com/file/d/1VPPcJY3SJAPRW3Sc-oOABpBxI5gAvK3O/view?usp=sharing
   120k Torso: https://drive.google.com/file/d/1Xlto3nTZPK4qtnXG_3FkeAhMxchgKmdv/view?usp=sharing
