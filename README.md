@@ -67,6 +67,16 @@ python convert_BFM.py
   source /usr/local/etc/profile.d/conda.sh && conda init bash && conda activate adnerf
   python ./NeRFs/TorsoNeRF/run_nerf.py --config ./dataset/Obama/TorsoNeRFTest_config.txt --aud_file=<Path_to_AudioFile.npy> --test_size=-1
 
+# Citation
+  @inproceedings{guo2021adnerf,
+  title={AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis},
+  author={Yudong Guo and Keyu Chen and Sen Liang and Yongjin Liu and Hujun Bao and Juyong Zhang},
+  booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2021}
+
+# Acknowledgement
+  We use DeepSpeech for audio feature extraction. The NeRF model is implemented based on NeRF-pytorch.
+
 
 
 
