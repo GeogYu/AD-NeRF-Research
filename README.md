@@ -68,15 +68,24 @@ python convert_BFM.py
   python ./NeRFs/TorsoNeRF/run_nerf.py --config ./dataset/Obama/TorsoNeRFTest_config.txt --aud_file=<Path_to_AudioFile.npy> --test_size=-1
   
 # Pretrained Model
-  100k Head: https://drive.google.com/file/d/1-hUY2MfQRLYEtxse04NePn8B_z5lyl3b/view?usp=sharing\n
+  100k Head: https://drive.google.com/file/d/1-hUY2MfQRLYEtxse04NePn8B_z5lyl3b/view?usp=sharing
+  
   200k Head: https://drive.google.com/file/d/1VPPcJY3SJAPRW3Sc-oOABpBxI5gAvK3O/view?usp=sharing
+  
   60k Torso: https://drive.google.com/file/d/1VPPcJY3SJAPRW3Sc-oOABpBxI5gAvK3O/view?usp=sharing
+  
   120k Torso: https://drive.google.com/file/d/1Xlto3nTZPK4qtnXG_3FkeAhMxchgKmdv/view?usp=sharing
+  
   Pretrained Obama Model: https://drive.google.com/drive/folders/1-FnRx8jO8Plat821Z4oXtFhJ-C9ZXZSI?usp=sharing
+  
   TorsoNeRFTest_config: https://drive.google.com/file/d/1WpReGOzv-TX53EDSVP8sjbTJnwwk7_iA/view?usp=sharing
+  
   TorsoNeRF_config: https://drive.google.com/file/d/1Wsk3SMC0AO0Cyuh_xhFA3dgoqqeO0Svq/view?usp=sharing
+  
   HeadNeRF_config: https://drive.google.com/file/d/1WypqiN9c8WQnwnPY878bfw_2ZtGHkY6q/view?usp=sharing
+  
   transforms_val: https://drive.google.com/file/d/1X2H2Sa7YcY5IGmz30DDUIlL1zRkbgTl3/view?usp=sharing
+  
   transforms_train: https://drive.google.com/file/d/1X4Mcqq5f6PIwdcK2c4MVeLvwJJx7zB4Q/view?usp=sharing
 
 # Citation
